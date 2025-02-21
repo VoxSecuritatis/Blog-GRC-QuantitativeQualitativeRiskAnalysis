@@ -1,4 +1,4 @@
-## Blog:  Quantitative and Qualitative Risk Assessment in Cybersecurity: A Comprehensive Guide
+## Blog:  Quantitative and Qualitative Risk Assessment in Cybersecurity: A Short Guide
 
 Date: 2025-02-21
 
