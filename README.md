@@ -1,0 +1,1 @@
+# Blog-GRC-QuantitativeQualitativeRiskAnalysis
