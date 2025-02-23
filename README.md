@@ -1,11 +1,11 @@
-## Blog:  Quantitative and Qualitative Risk Assessment in Cybersecurity: A Short Guide
+## Blog:  Quantitative and Qualitative Risk Assessment: A Short Guide
 
 Date: 2025-02-21
 
 ---
 
 ## Introduction
-Risk assessment is a cornerstone of effective cybersecurity governance, risk management, and compliance (GRC) programs. It enables organizations to:
+Risk assessment is a cornerstone of effective governance, risk management, and compliance (GRC) programs. It enables organizations to:
 
 - Identify, analyze, and prioritize risks to their information assets  
 - Ensure that appropriate controls are implemented to mitigate these risks  
