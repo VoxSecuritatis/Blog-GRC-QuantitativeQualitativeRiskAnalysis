@@ -1,4 +1,4 @@
-## Blog:  Quantitative and Qualitative Risk Assessment: A Short Guide
+## Blog:  Quantitative and Qualitative Risk Assessment: Cheatsheet
 
 Date: 2025-02-21
 
