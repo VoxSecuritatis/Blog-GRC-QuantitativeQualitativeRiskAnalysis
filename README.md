@@ -114,6 +114,10 @@ Both methodologies are vital to a **comprehensive cybersecurity strategy**:
 
 - [NIST Special Publication 800-30: Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final)  
 - [ISO/IEC 27005: Information Security Risk Management](https://www.iso.org/standard/80585.html)  
-- [FAIR (Factor Analysis of Information Risk) Model](https://www.fairinstitute.org/)  
+- [FAIR (Factor Analysis of Information Risk) Model](https://www.fairinstitute.org/)
+
+---
+
+© 2025 Brock Frary. All rights reserved. 
 
 ---
