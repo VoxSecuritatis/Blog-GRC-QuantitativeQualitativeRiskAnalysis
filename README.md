@@ -119,5 +119,3 @@ Both methodologies are vital to a **comprehensive cybersecurity strategy**:
 ---
 
 © 2025 Brock Frary. All rights reserved. 
-
----
